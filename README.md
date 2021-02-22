@@ -1,4 +1,4 @@
-# Tailwind Css from Scratch
+# A Tailwind CSS Project from Scratch
 
 Install the required dependencies with npm:
 

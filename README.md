@@ -11,3 +11,9 @@ Then start the dev server:
 ```sh
 npm run dev
 ```
+
+Building for Production: 
+
+```sh
+npm run build
+```

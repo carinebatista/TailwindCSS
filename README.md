@@ -1,5 +1,7 @@
 # A Tailwind CSS Project from Scratch
 
+This Project was building using TailwindCss, React and React Refresh Plugin
+
 Install the required dependencies with npm:
 
 ```sh
